@@ -1,11 +1,11 @@
 Name: Charles Polahon Paoad  
 
-Student ID: 24-1582-825\
+Student ID: 24-1582-825
 
 Course/Section: BS Information Technology / 3H
 
 Web Server: Python HTTP Server
- 
+
 Port: 8000
 
 ## What I learned
